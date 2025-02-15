@@ -1,0 +1,8 @@
+setuptools>=68.0.0
+web3==6.11.3
+requests==2.31.0
+python-dotenv==1.0.0
+eth-account==0.10.0
+aiohttp==3.9.1
+asyncio==3.4.3
+colorama==0.4.6 
